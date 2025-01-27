@@ -1,0 +1,44 @@
+body{
+  background-color:black;
+  color:white;
+}
+.title{
+  font-size:30px;
+  font-weight:bold;
+  font-family:Arial;
+}
+.image{
+  height:50px;
+}
+.button-ele{
+  background-color:transparent;
+  border-width:3px;
+  border-color:white;
+  border-radius:50px;
+  border-style:solid;
+  padding:20px;
+  margin-right:10px;
+  cursor:pointer;
+}
+.style-result-ele{
+  font-size:25px;
+  font-family:Arial;
+  font-weight:bold;
+}
+.reset-score,
+.auto-play-button{
+  background-color:white;
+  color:black;
+  border:none;
+  font-size:15px;
+  padding:8px 12px;
+  font-family:Arial;
+  font-weight:500;
+  cursor:pointer;
+}
+.score-ele{
+  margin-top:50px;
+}
+.normal-text{
+  font-size:20px;
+}
